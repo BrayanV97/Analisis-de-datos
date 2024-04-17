@@ -1,5 +1,0 @@
-.txt
-.pdf
-.graphml
-.jpg
-File folder
